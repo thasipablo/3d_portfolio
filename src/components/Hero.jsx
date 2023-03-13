@@ -18,7 +18,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop high available and scalable softwares,
-            <br className="sm:block hidden" />I do better UX inclusive designs
+            <br className="sm:block hidden" />I make better inclusive UX designs
           </p>
         </div>
       </div>
